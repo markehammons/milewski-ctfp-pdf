@@ -1,1 +1,1 @@
-def absurd[A]: Nothing => A
+val absurd: [A] => Nothing => A
